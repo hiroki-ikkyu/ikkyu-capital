@@ -1,21 +1,17 @@
 {
-  "updated": "2026-05-23T07:33:22+09:00",
+  "updated": "2026-05-24T07:13:48+09:00",
   "commodities": {
     "copper": {
       "name": "LME Copper",
       "unit": "$/lb",
-      "current": 6.3805,
+      "current": 6.342,
       "prev_close": 6.257,
-      "change_pct": 1.97,
+      "change_pct": 1.36,
       "week_ago": 6.2515,
       "month_ago": 6.0755,
-      "ma20": 6.1819,
-      "ma60": 5.9036,
+      "ma20": 6.18,
+      "ma60": 5.903,
       "history": [
-        {
-          "date": "2024-05-22",
-          "value": 4.8675
-        },
         {
           "date": "2024-05-23",
           "value": 4.8165
@@ -2026,25 +2022,21 @@
         },
         {
           "date": "2026-05-22",
-          "value": 6.3805
+          "value": 6.342
         }
       ]
     },
     "gold": {
       "name": "Gold",
       "unit": "$/oz",
-      "current": 4510.5,
+      "current": 4521.0,
       "prev_close": 4539.8,
-      "change_pct": -0.65,
+      "change_pct": -0.41,
       "week_ago": 4555.8,
       "month_ago": 4705.1,
-      "ma20": 4610.12,
-      "ma60": 4750.02,
+      "ma20": 4610.64,
+      "ma60": 4750.19,
       "history": [
-        {
-          "date": "2024-05-22",
-          "value": 2389.2
-        },
         {
           "date": "2024-05-23",
           "value": 2335.0
@@ -4055,25 +4047,21 @@
         },
         {
           "date": "2026-05-22",
-          "value": 4510.5
+          "value": 4521.0
         }
       ]
     },
     "wti": {
       "name": "WTI Crude",
       "unit": "$/bbl",
-      "current": 97.0,
+      "current": 96.6,
       "prev_close": 96.35,
-      "change_pct": 0.67,
+      "change_pct": 0.26,
       "week_ago": 105.42,
       "month_ago": 95.85,
-      "ma20": 101.0,
-      "ma60": 95.67,
+      "ma20": 100.98,
+      "ma60": 95.66,
       "history": [
-        {
-          "date": "2024-05-22",
-          "value": 77.57
-        },
         {
           "date": "2024-05-23",
           "value": 76.87
@@ -6084,25 +6072,21 @@
         },
         {
           "date": "2026-05-22",
-          "value": 97.0
+          "value": 96.6
         }
       ]
     },
     "brent": {
       "name": "Brent Crude",
       "unit": "$/bbl",
-      "current": 103.94,
+      "current": 103.54,
       "prev_close": 102.58,
-      "change_pct": 1.33,
+      "change_pct": 0.94,
       "week_ago": 109.26,
       "month_ago": 105.07,
-      "ma20": 107.71,
-      "ma60": 101.97,
+      "ma20": 107.69,
+      "ma60": 101.96,
       "history": [
-        {
-          "date": "2024-05-22",
-          "value": 81.9
-        },
         {
           "date": "2024-05-23",
           "value": 81.36
@@ -8113,7 +8097,7 @@
         },
         {
           "date": "2026-05-22",
-          "value": 103.94
+          "value": 103.54
         }
       ]
     },
