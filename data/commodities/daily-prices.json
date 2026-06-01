@@ -1,21 +1,17 @@
 {
-  "updated": "2026-06-01T07:31:04+09:00",
+  "updated": "2026-06-02T08:13:16+09:00",
   "commodities": {
     "copper": {
       "name": "LME Copper",
       "unit": "$/lb",
-      "current": 6.3935,
+      "current": 6.5645,
       "prev_close": 6.3595,
-      "change_pct": 0.53,
+      "change_pct": 3.22,
       "week_ago": 6.342,
       "month_ago": 5.926,
-      "ma20": 6.2873,
-      "ma60": 5.9452,
+      "ma20": 6.2958,
+      "ma60": 5.9481,
       "history": [
-        {
-          "date": "2024-05-31",
-          "value": 4.61
-        },
         {
           "date": "2024-06-03",
           "value": 4.677
@@ -2021,26 +2017,22 @@
           "value": 6.3595
         },
         {
-          "date": "2026-05-31",
-          "value": 6.3935
+          "date": "2026-06-01",
+          "value": 6.5645
         }
       ]
     },
     "gold": {
       "name": "Gold",
       "unit": "$/oz",
-      "current": 4565.5,
+      "current": 4516.3,
       "prev_close": 4560.5,
-      "change_pct": 0.11,
+      "change_pct": -0.97,
       "week_ago": 4521.0,
       "month_ago": 4614.7,
-      "ma20": 4586.47,
-      "ma60": 4696.11,
+      "ma20": 4584.01,
+      "ma60": 4695.29,
       "history": [
-        {
-          "date": "2024-05-31",
-          "value": 2322.9
-        },
         {
           "date": "2024-06-03",
           "value": 2346.6
@@ -4046,26 +4038,22 @@
           "value": 4560.5
         },
         {
-          "date": "2026-05-31",
-          "value": 4565.5
+          "date": "2026-06-01",
+          "value": 4516.3
         }
       ]
     },
     "wti": {
       "name": "WTI Crude",
       "unit": "$/bbl",
-      "current": 89.77,
+      "current": 92.28,
       "prev_close": 87.36,
-      "change_pct": 2.76,
+      "change_pct": 5.63,
       "week_ago": 96.6,
       "month_ago": 105.07,
-      "ma20": 97.9,
-      "ma60": 97.0,
+      "ma20": 98.03,
+      "ma60": 97.04,
       "history": [
-        {
-          "date": "2024-05-31",
-          "value": 76.99
-        },
         {
           "date": "2024-06-03",
           "value": 74.22
@@ -6071,26 +6059,22 @@
           "value": 87.36
         },
         {
-          "date": "2026-05-31",
-          "value": 89.77
+          "date": "2026-06-01",
+          "value": 92.28
         }
       ]
     },
     "brent": {
       "name": "Brent Crude",
       "unit": "$/bbl",
-      "current": 93.15,
+      "current": 95.18,
       "prev_close": 92.05,
-      "change_pct": 1.2,
+      "change_pct": 3.4,
       "week_ago": 103.54,
       "month_ago": 114.01,
-      "ma20": 103.34,
-      "ma60": 103.2,
+      "ma20": 103.44,
+      "ma60": 103.23,
       "history": [
-        {
-          "date": "2024-05-31",
-          "value": 81.62
-        },
         {
           "date": "2024-06-03",
           "value": 78.36
@@ -8096,34 +8080,22 @@
           "value": 92.05
         },
         {
-          "date": "2026-05-31",
-          "value": 93.15
+          "date": "2026-06-01",
+          "value": 95.18
         }
       ]
     },
     "usdjpy": {
       "name": "USD/JPY",
       "unit": "¥/$",
-      "current": 159.4,
-      "prev_close": 159.27,
-      "change_pct": 0.08,
+      "current": 159.65,
+      "prev_close": 159.35,
+      "change_pct": 0.19,
       "week_ago": 158.95,
-      "month_ago": 156.98,
-      "ma20": 158.31,
-      "ma60": 158.81,
+      "month_ago": 156.85,
+      "ma20": 158.43,
+      "ma60": 158.84,
       "history": [
-        {
-          "date": "2024-05-29",
-          "value": 157.26
-        },
-        {
-          "date": "2024-05-30",
-          "value": 157.61
-        },
-        {
-          "date": "2024-05-31",
-          "value": 156.95
-        },
         {
           "date": "2024-06-03",
           "value": 157.18
@@ -10185,8 +10157,12 @@
           "value": 159.27
         },
         {
-          "date": "2026-05-31",
-          "value": 159.4
+          "date": "2026-06-01",
+          "value": 159.35
+        },
+        {
+          "date": "2026-06-02",
+          "value": 159.65
         }
       ]
     }
