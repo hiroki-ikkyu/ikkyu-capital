@@ -1,32 +1,42 @@
 {
-  "updated": "2026-06-04T08:16:59+09:00",
+  "updated": "2026-06-05T07:52:45+09:00",
   "alerts": [
+    {
+      "commodity": "copper",
+      "name": "LME Copper",
+      "current": 6.5295,
+      "change_pct": 0.75,
+      "price_alert": "→ 横ばい",
+      "trend": "🔼 上昇トレンド（MA20>MA60）",
+      "impact": "住友鉱山(5713)に影響。LME銅$100変動で±¥25億",
+      "severity": "low"
+    },
     {
       "commodity": "gold",
       "name": "Gold",
-      "current": 4476.1,
-      "change_pct": -0.29,
-      "price_alert": "→ 横ばい",
+      "current": 4505.2,
+      "change_pct": 1.54,
+      "price_alert": "📈 上昇",
       "trend": "🔽 下降トレンド（MA20<MA60）",
       "impact": "住友鉱山(5713)の副産物利益に影響。金$100/ozで±¥80億",
-      "severity": "low"
+      "severity": "medium"
     },
     {
       "commodity": "wti",
       "name": "WTI Crude",
-      "current": 95.26,
-      "change_pct": 1.6,
-      "price_alert": "📈 上昇",
+      "current": 92.85,
+      "change_pct": -3.3,
+      "price_alert": "⚠️ 急落",
       "trend": "🔽 下降トレンド（MA20<MA60）",
       "impact": "INPEX(1605)に影響。原油$1変動で±¥50億",
-      "severity": "medium"
+      "severity": "high"
     },
     {
       "commodity": "brent",
       "name": "Brent Crude",
-      "current": 97.11,
-      "change_pct": 1.16,
-      "price_alert": "📈 上昇",
+      "current": 95.2,
+      "change_pct": -2.67,
+      "price_alert": "📉 下落",
       "trend": "🔽 下降トレンド（MA20<MA60）",
       "impact": "INPEX(1605)に影響。原油$1変動で±¥50億",
       "severity": "medium"
@@ -34,13 +44,13 @@
     {
       "commodity": "usdjpy",
       "name": "USD/JPY",
-      "current": 159.95,
-      "change_pct": -0.01,
+      "current": 160.0,
+      "change_pct": 0.02,
       "price_alert": "→ 横ばい",
       "trend": "🔽 下降トレンド（MA20<MA60）",
       "impact": "INPEX/日本製鉄/住友鉱山に影響。1円変動で各社±¥15-30億",
       "severity": "low"
     }
   ],
-  "summary": "金は0.29%下落、下降トレンド。WTI原油は1.60%上昇、下降トレンド。ブレント原油は1.16%上昇、下降トレンド。ドル円は横ばい、下降トレンド。"
+  "summary": "銅は0.75%上昇、上昇トレンド。金は1.54%上昇、下降トレンド。WTI原油は3.30%下落、下降トレンド。ブレント原油は2.67%下落、下降トレンド。ドル円は横ばい、下降トレンド。"
 }
