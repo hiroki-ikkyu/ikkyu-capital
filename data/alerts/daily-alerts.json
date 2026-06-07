@@ -1,32 +1,32 @@
 {
-  "updated": "2026-06-07T07:35:09+09:00",
+  "updated": "2026-06-08T07:35:59+09:00",
   "alerts": [
     {
       "commodity": "copper",
       "name": "LME Copper",
-      "current": 6.2635,
-      "change_pct": -3.8,
-      "price_alert": "⚠️ 急落",
+      "current": 6.2545,
+      "change_pct": -0.14,
+      "price_alert": "→ 横ばい",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "住友鉱山(5713)に影響。LME銅$100変動で±¥25億",
-      "severity": "high"
+      "severity": "low"
     },
     {
       "commodity": "gold",
       "name": "Gold",
-      "current": 4337.1,
-      "change_pct": -3.1,
-      "price_alert": "⚠️ 急落",
+      "current": 4347.2,
+      "change_pct": 0.23,
+      "price_alert": "→ 横ばい",
       "trend": "🔽 下降トレンド（MA20<MA60）",
       "impact": "住友鉱山(5713)の副産物利益に影響。金$100/ozで±¥80億",
-      "severity": "high"
+      "severity": "low"
     },
     {
       "commodity": "wti",
       "name": "WTI Crude",
-      "current": 90.54,
-      "change_pct": -2.69,
-      "price_alert": "📉 下落",
+      "current": 92.82,
+      "change_pct": 2.52,
+      "price_alert": "📈 上昇",
       "trend": "🔽 下降トレンド（MA20<MA60）",
       "impact": "INPEX(1605)に影響。原油$1変動で±¥50億",
       "severity": "medium"
@@ -34,9 +34,9 @@
     {
       "commodity": "brent",
       "name": "Brent Crude",
-      "current": 93.09,
-      "change_pct": -2.04,
-      "price_alert": "📉 下落",
+      "current": 95.65,
+      "change_pct": 2.75,
+      "price_alert": "📈 上昇",
       "trend": "🔽 下降トレンド（MA20<MA60）",
       "impact": "INPEX(1605)に影響。原油$1変動で±¥50億",
       "severity": "medium"
@@ -44,13 +44,13 @@
     {
       "commodity": "usdjpy",
       "name": "USD/JPY",
-      "current": 160.29,
-      "change_pct": 0.22,
+      "current": 160.33,
+      "change_pct": 0.21,
       "price_alert": "→ 横ばい",
-      "trend": "🔽 下降トレンド（MA20<MA60）",
+      "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "INPEX/日本製鉄/住友鉱山に影響。1円変動で各社±¥15-30億",
       "severity": "low"
     }
   ],
-  "summary": "銅は3.80%下落、上昇トレンド。金は3.10%下落、下降トレンド。WTI原油は2.69%下落、下降トレンド。ブレント原油は2.04%下落、下降トレンド。ドル円は0.22%上昇、下降トレンド。"
+  "summary": "銅は0.14%下落、上昇トレンド。金は0.23%上昇、下降トレンド。WTI原油は2.52%上昇、下降トレンド。ブレント原油は2.75%上昇、下降トレンド。ドル円は0.21%上昇、上昇トレンド。"
 }
