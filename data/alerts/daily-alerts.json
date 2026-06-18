@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-18T07:56:03+09:00",
+  "updated": "2026-06-19T08:16:57+09:00",
   "alerts": [
     {
       "commodity": "copper",
       "name": "LME Copper",
-      "current": 6.3755,
-      "change_pct": -1.75,
+      "current": 6.3705,
+      "change_pct": -1.71,
       "price_alert": "📉 下落",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "住友鉱山(5713)に影響。LME銅$100変動で±¥25億",
@@ -14,28 +14,28 @@
     {
       "commodity": "gold",
       "name": "Gold",
-      "current": 4284.1,
-      "change_pct": -1.08,
-      "price_alert": "📉 下落",
+      "current": 4219.9,
+      "change_pct": -3.19,
+      "price_alert": "⚠️ 急落",
       "trend": "🔽 下降トレンド（MA20<MA60）",
       "impact": "住友鉱山(5713)の副産物利益に影響。金$100/ozで±¥80億",
-      "severity": "medium"
+      "severity": "high"
     },
     {
       "commodity": "wti",
       "name": "WTI Crude",
-      "current": 75.36,
-      "change_pct": -0.91,
-      "price_alert": "→ 横ばい",
+      "current": 75.42,
+      "change_pct": -1.78,
+      "price_alert": "📉 下落",
       "trend": "🔽 下降トレンド（MA20<MA60）",
       "impact": "INPEX(1605)に影響。原油$1変動で±¥50億",
-      "severity": "low"
+      "severity": "medium"
     },
     {
       "commodity": "brent",
       "name": "Brent Crude",
-      "current": 79.0,
-      "change_pct": 0.05,
+      "current": 79.24,
+      "change_pct": -0.39,
       "price_alert": "→ 横ばい",
       "trend": "🔽 下降トレンド（MA20<MA60）",
       "impact": "INPEX(1605)に影響。原油$1変動で±¥50億",
@@ -44,13 +44,13 @@
     {
       "commodity": "usdjpy",
       "name": "USD/JPY",
-      "current": 160.6,
-      "change_pct": 0.23,
+      "current": 161.31,
+      "change_pct": 0.44,
       "price_alert": "→ 横ばい",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "INPEX/日本製鉄/住友鉱山に影響。1円変動で各社±¥15-30億",
       "severity": "low"
     }
   ],
-  "summary": "銅は1.75%下落、上昇トレンド。金は1.08%下落、下降トレンド。WTI原油は0.91%下落、下降トレンド。ブレント原油は0.05%上昇、下降トレンド。ドル円は0.23%上昇、上昇トレンド。"
+  "summary": "銅は1.71%下落、上昇トレンド。金は3.19%下落、下降トレンド。WTI原油は1.78%下落、下降トレンド。ブレント原油は0.39%下落、下降トレンド。ドル円は0.44%上昇、上昇トレンド。"
 }
