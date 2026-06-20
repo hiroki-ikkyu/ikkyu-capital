@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T07:30:45+09:00",
+  "updated": "2026-06-21T07:39:45+09:00",
   "commodities": {
     "copper": {
       "name": "LME Copper",
@@ -8120,13 +8120,13 @@
     "usdjpy": {
       "name": "USD/JPY",
       "unit": "¥/$",
-      "current": 161.28,
-      "prev_close": 160.6,
-      "change_pct": 0.42,
-      "week_ago": 160.13,
-      "month_ago": 158.89,
-      "ma20": 159.94,
-      "ma60": 159.12,
+      "current": 161.27,
+      "prev_close": 161.29,
+      "change_pct": -0.01,
+      "week_ago": 159.96,
+      "month_ago": 159.02,
+      "ma20": 160.06,
+      "ma60": 159.14,
       "history": [
         {
           "date": "2024-06-19",
@@ -10198,7 +10198,11 @@
         },
         {
           "date": "2026-06-19",
-          "value": 161.28
+          "value": 161.29
+        },
+        {
+          "date": "2026-06-20",
+          "value": 161.27
         }
       ]
     }
