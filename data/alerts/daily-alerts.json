@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-27T07:43:38+09:00",
+  "updated": "2026-06-28T07:34:56+09:00",
   "alerts": [
     {
       "commodity": "copper",
       "name": "LME Copper",
-      "current": 6.1975,
-      "change_pct": 2.09,
+      "current": 6.1415,
+      "change_pct": 1.17,
       "price_alert": "📈 上昇",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "住友鉱山(5713)に影響。LME銅$100変動で±¥25億",
@@ -14,8 +14,8 @@
     {
       "commodity": "gold",
       "name": "Gold",
-      "current": 4103.0,
-      "change_pct": 1.8,
+      "current": 4078.7,
+      "change_pct": 1.2,
       "price_alert": "📈 上昇",
       "trend": "🔽 下降トレンド（MA20<MA60）",
       "impact": "住友鉱山(5713)の副産物利益に影響。金$100/ozで±¥80億",
@@ -24,33 +24,33 @@
     {
       "commodity": "wti",
       "name": "WTI Crude",
-      "current": 70.24,
-      "change_pct": -2.34,
-      "price_alert": "📉 下落",
+      "current": 69.23,
+      "change_pct": -3.74,
+      "price_alert": "⚠️ 急落",
       "trend": "🔽 下降トレンド（MA20<MA60）",
       "impact": "INPEX(1605)に影響。原油$1変動で±¥50億",
-      "severity": "medium"
+      "severity": "high"
     },
     {
       "commodity": "brent",
       "name": "Brent Crude",
-      "current": 73.57,
-      "change_pct": -2.25,
-      "price_alert": "📉 下落",
+      "current": 71.99,
+      "change_pct": -4.34,
+      "price_alert": "⚠️ 急落",
       "trend": "🔽 下降トレンド（MA20<MA60）",
       "impact": "INPEX(1605)に影響。原油$1変動で±¥50億",
-      "severity": "medium"
+      "severity": "high"
     },
     {
       "commodity": "usdjpy",
       "name": "USD/JPY",
-      "current": 161.73,
-      "change_pct": -0.02,
+      "current": 161.68,
+      "change_pct": -0.07,
       "price_alert": "→ 横ばい",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "INPEX/日本製鉄/住友鉱山に影響。1円変動で各社±¥15-30億",
       "severity": "low"
     }
   ],
-  "summary": "銅は2.09%上昇、上昇トレンド。金は1.80%上昇、下降トレンド。WTI原油は2.34%下落、下降トレンド。ブレント原油は2.25%下落、下降トレンド。ドル円は横ばい、上昇トレンド。"
+  "summary": "銅は1.17%上昇、上昇トレンド。金は1.20%上昇、下降トレンド。WTI原油は3.74%下落、下降トレンド。ブレント原油は4.34%下落、下降トレンド。ドル円は0.07%下落、上昇トレンド。"
 }
