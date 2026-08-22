@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-22T06:47:59+09:00",
+  "updated": "2026-08-23T06:44:34+09:00",
   "alerts": [
     {
       "commodity": "copper",
       "name": "LME Copper",
-      "current": 6.58,
-      "change_pct": 1.86,
+      "current": 6.5795,
+      "change_pct": 1.85,
       "price_alert": "📈 上昇",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "住友鉱山(5713)に影響。LME銅$100変動で±¥25億",
@@ -14,28 +14,28 @@
     {
       "commodity": "gold",
       "name": "Gold",
-      "current": 4661.6,
-      "change_pct": 3.22,
-      "price_alert": "⚠️ 急騰",
+      "current": 4624.1,
+      "change_pct": 2.39,
+      "price_alert": "📈 上昇",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "住友鉱山(5713)の副産物利益に影響。金$100/ozで±¥80億",
-      "severity": "high"
+      "severity": "medium"
     },
     {
       "commodity": "wti",
       "name": "WTI Crude",
-      "current": 86.64,
-      "change_pct": -1.35,
-      "price_alert": "📉 下落",
+      "current": 87.06,
+      "change_pct": -0.88,
+      "price_alert": "→ 横ばい",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "INPEX(1605)に影響。原油$1変動で±¥50億",
-      "severity": "medium"
+      "severity": "low"
     },
     {
       "commodity": "brent",
       "name": "Brent Crude",
-      "current": 93.87,
-      "change_pct": 0.1,
+      "current": 94.39,
+      "change_pct": 0.65,
       "price_alert": "→ 横ばい",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "INPEX(1605)に影響。原油$1変動で±¥50億",
@@ -44,13 +44,13 @@
     {
       "commodity": "usdjpy",
       "name": "USD/JPY",
-      "current": 158.86,
-      "change_pct": 0.37,
+      "current": 158.94,
+      "change_pct": 0.42,
       "price_alert": "→ 横ばい",
       "trend": "🔽 下降トレンド（MA20<MA60）",
       "impact": "INPEX/日本製鉄/住友鉱山に影響。1円変動で各社±¥15-30億",
       "severity": "low"
     }
   ],
-  "summary": "銅は1.86%上昇、上昇トレンド。金は3.22%上昇、上昇トレンド。WTI原油は1.35%下落、上昇トレンド。ブレント原油は0.10%上昇、上昇トレンド。ドル円は0.37%上昇、下降トレンド。"
+  "summary": "銅は1.85%上昇、上昇トレンド。金は2.39%上昇、上昇トレンド。WTI原油は0.88%下落、上昇トレンド。ブレント原油は0.65%上昇、上昇トレンド。ドル円は0.42%上昇、下降トレンド。"
 }
