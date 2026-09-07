@@ -1,21 +1,17 @@
 {
-  "updated": "2026-09-07T07:57:46+09:00",
+  "updated": "2026-09-08T08:38:27+09:00",
   "commodities": {
     "copper": {
       "name": "LME Copper",
       "unit": "$/lb",
-      "current": 6.6825,
+      "current": 6.725,
       "prev_close": 6.597,
-      "change_pct": 1.3,
+      "change_pct": 1.94,
       "week_ago": 6.5935,
       "month_ago": 6.5705,
-      "ma20": 6.5762,
-      "ma60": 6.4096,
+      "ma20": 6.5783,
+      "ma60": 6.4103,
       "history": [
-        {
-          "date": "2024-09-06",
-          "value": 4.0145
-        },
         {
           "date": "2024-09-09",
           "value": 4.0845
@@ -2025,26 +2021,22 @@
           "value": 6.597
         },
         {
-          "date": "2026-09-06",
-          "value": 6.6825
+          "date": "2026-09-07",
+          "value": 6.725
         }
       ]
     },
     "gold": {
       "name": "Gold",
       "unit": "$/oz",
-      "current": 4476.6,
+      "current": 4457.2,
       "prev_close": 4429.8,
-      "change_pct": 1.06,
+      "change_pct": 0.62,
       "week_ago": 4431.1,
       "month_ago": 4340.7,
-      "ma20": 4472.89,
-      "ma60": 4236.92,
+      "ma20": 4471.93,
+      "ma60": 4236.6,
       "history": [
-        {
-          "date": "2024-09-06",
-          "value": 2493.5
-        },
         {
           "date": "2024-09-09",
           "value": 2501.8
@@ -4054,26 +4046,22 @@
           "value": 4429.8
         },
         {
-          "date": "2026-09-06",
-          "value": 4476.6
+          "date": "2026-09-07",
+          "value": 4457.2
         }
       ]
     },
     "wti": {
       "name": "WTI Crude",
       "unit": "$/bbl",
-      "current": 91.48,
+      "current": 92.59,
       "prev_close": 91.48,
-      "change_pct": 0.0,
+      "change_pct": 1.21,
       "week_ago": 85.76,
       "month_ago": 78.18,
-      "ma20": 85.9,
-      "ma60": 80.41,
+      "ma20": 85.96,
+      "ma60": 80.43,
       "history": [
-        {
-          "date": "2024-09-06",
-          "value": 67.67
-        },
         {
           "date": "2024-09-09",
           "value": 68.71
@@ -6083,26 +6071,22 @@
           "value": 91.48
         },
         {
-          "date": "2026-09-06",
-          "value": 91.48
+          "date": "2026-09-07",
+          "value": 92.59
         }
       ]
     },
     "brent": {
       "name": "Brent Crude",
       "unit": "$/bbl",
-      "current": 96.28,
+      "current": 97.23,
       "prev_close": 96.28,
-      "change_pct": 0.0,
+      "change_pct": 0.99,
       "week_ago": 90.49,
       "month_ago": 83.55,
-      "ma20": 91.58,
-      "ma60": 85.3,
+      "ma20": 91.63,
+      "ma60": 85.32,
       "history": [
-        {
-          "date": "2024-09-06",
-          "value": 71.06
-        },
         {
           "date": "2024-09-09",
           "value": 71.84
@@ -8112,34 +8096,22 @@
           "value": 96.28
         },
         {
-          "date": "2026-09-06",
-          "value": 96.28
+          "date": "2026-09-07",
+          "value": 97.23
         }
       ]
     },
     "usdjpy": {
       "name": "USD/JPY",
       "unit": "¥/$",
-      "current": 156.21,
-      "prev_close": 155.66,
-      "change_pct": 0.36,
-      "week_ago": 160.12,
-      "month_ago": 158.41,
-      "ma20": 158.96,
-      "ma60": 160.64,
+      "current": 153.95,
+      "prev_close": 156.2,
+      "change_pct": -1.44,
+      "week_ago": 159.75,
+      "month_ago": 157.89,
+      "ma20": 158.7,
+      "ma60": 160.54,
       "history": [
-        {
-          "date": "2024-09-04",
-          "value": 145.35
-        },
-        {
-          "date": "2024-09-05",
-          "value": 143.32
-        },
-        {
-          "date": "2024-09-06",
-          "value": 143.39
-        },
         {
           "date": "2024-09-09",
           "value": 142.49
@@ -10201,8 +10173,12 @@
           "value": 155.66
         },
         {
-          "date": "2026-09-06",
-          "value": 156.21
+          "date": "2026-09-07",
+          "value": 156.2
+        },
+        {
+          "date": "2026-09-08",
+          "value": 153.95
         }
       ]
     }
