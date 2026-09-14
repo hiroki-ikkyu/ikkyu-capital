@@ -1,31 +1,31 @@
 {
-  "updated": "2026-09-14T08:17:29+09:00",
+  "updated": "2026-09-15T08:56:05+09:00",
   "alerts": [
     {
       "commodity": "copper",
       "name": "LME Copper",
-      "current": 6.53,
-      "change_pct": 0.94,
-      "price_alert": "→ 横ばい",
+      "current": 6.393,
+      "change_pct": -1.18,
+      "price_alert": "📉 下落",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "住友鉱山(5713)に影響。LME銅$100変動で±¥25億",
-      "severity": "low"
+      "severity": "medium"
     },
     {
       "commodity": "gold",
       "name": "Gold",
-      "current": 4381.8,
-      "change_pct": 0.36,
-      "price_alert": "→ 横ばい",
+      "current": 4328.9,
+      "change_pct": -1.81,
+      "price_alert": "📉 下落",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "住友鉱山(5713)の副産物利益に影響。金$100/ozで±¥80億",
-      "severity": "low"
+      "severity": "medium"
     },
     {
       "commodity": "wti",
       "name": "WTI Crude",
-      "current": 102.36,
-      "change_pct": 2.31,
+      "current": 102.07,
+      "change_pct": 2.02,
       "price_alert": "📈 上昇",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "INPEX(1605)に影響。原油$1変動で±¥50億",
@@ -34,8 +34,8 @@
     {
       "commodity": "brent",
       "name": "Brent Crude",
-      "current": 107.6,
-      "change_pct": 2.86,
+      "current": 106.41,
+      "change_pct": 1.72,
       "price_alert": "📈 上昇",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "INPEX(1605)に影響。原油$1変動で±¥50億",
@@ -44,13 +44,13 @@
     {
       "commodity": "usdjpy",
       "name": "USD/JPY",
-      "current": 153.71,
-      "change_pct": -0.5,
+      "current": 154.4,
+      "change_pct": 0.64,
       "price_alert": "→ 横ばい",
       "trend": "🔽 下降トレンド（MA20<MA60）",
       "impact": "INPEX/日本製鉄/住友鉱山に影響。1円変動で各社±¥15-30億",
       "severity": "low"
     }
   ],
-  "summary": "銅は0.94%上昇、上昇トレンド。金は0.36%上昇、上昇トレンド。WTI原油は2.31%上昇、上昇トレンド。ブレント原油は2.86%上昇、上昇トレンド。ドル円は0.50%下落、下降トレンド。"
+  "summary": "銅は1.18%下落、上昇トレンド。金は1.81%下落、上昇トレンド。WTI原油は2.02%上昇、上昇トレンド。ブレント原油は1.72%上昇、上昇トレンド。ドル円は0.64%上昇、下降トレンド。"
 }
