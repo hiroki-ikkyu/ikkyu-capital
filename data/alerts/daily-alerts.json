@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-02T09:59:02+09:00",
+  "updated": "2026-10-03T09:36:13+09:00",
   "alerts": [
     {
       "commodity": "copper",
       "name": "LME Copper",
-      "current": 6.571,
-      "change_pct": 0.18,
-      "price_alert": "→ 横ばい",
+      "current": 6.579,
+      "change_pct": 1.5,
+      "price_alert": "📈 上昇",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "住友鉱山(5713)に影響。LME銅$100変動で±¥25億",
-      "severity": "low"
+      "severity": "medium"
     },
     {
       "commodity": "gold",
       "name": "Gold",
-      "current": 4190.4,
-      "change_pct": 0.09,
+      "current": 4172.1,
+      "change_pct": -0.72,
       "price_alert": "→ 横ばい",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "住友鉱山(5713)の副産物利益に影響。金$100/ozで±¥80億",
@@ -24,18 +24,18 @@
     {
       "commodity": "wti",
       "name": "WTI Crude",
-      "current": 93.14,
-      "change_pct": 3.01,
-      "price_alert": "⚠️ 急騰",
+      "current": 91.26,
+      "change_pct": -1.73,
+      "price_alert": "📉 下落",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "INPEX(1605)に影響。原油$1変動で±¥50億",
-      "severity": "high"
+      "severity": "medium"
     },
     {
       "commodity": "brent",
       "name": "Brent Crude",
-      "current": 102.74,
-      "change_pct": -0.76,
+      "current": 102.7,
+      "change_pct": 0.38,
       "price_alert": "→ 横ばい",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "INPEX(1605)に影響。原油$1変動で±¥50億",
@@ -44,13 +44,13 @@
     {
       "commodity": "usdjpy",
       "name": "USD/JPY",
-      "current": 158.13,
-      "change_pct": 0.36,
+      "current": 157.83,
+      "change_pct": 0.17,
       "price_alert": "→ 横ばい",
       "trend": "🔽 下降トレンド（MA20<MA60）",
       "impact": "INPEX/日本製鉄/住友鉱山に影響。1円変動で各社±¥15-30億",
       "severity": "low"
     }
   ],
-  "summary": "銅は0.18%上昇、上昇トレンド。金は0.09%上昇、上昇トレンド。WTI原油は3.01%上昇、上昇トレンド。ブレント原油は0.76%下落、上昇トレンド。ドル円は0.36%上昇、下降トレンド。"
+  "summary": "銅は1.50%上昇、上昇トレンド。金は0.72%下落、上昇トレンド。WTI原油は1.73%下落、上昇トレンド。ブレント原油は0.38%上昇、上昇トレンド。ドル円は0.17%上昇、下降トレンド。"
 }
