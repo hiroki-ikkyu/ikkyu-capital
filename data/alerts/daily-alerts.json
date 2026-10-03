@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-03T09:36:13+09:00",
+  "updated": "2026-10-04T08:58:28+09:00",
   "alerts": [
     {
       "commodity": "copper",
       "name": "LME Copper",
-      "current": 6.579,
-      "change_pct": 1.5,
-      "price_alert": "📈 上昇",
+      "current": 6.492,
+      "change_pct": 0.15,
+      "price_alert": "→ 横ばい",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "住友鉱山(5713)に影響。LME銅$100変動で±¥25億",
-      "severity": "medium"
+      "severity": "low"
     },
     {
       "commodity": "gold",
       "name": "Gold",
-      "current": 4172.1,
-      "change_pct": -0.72,
+      "current": 4162.3,
+      "change_pct": -0.95,
       "price_alert": "→ 横ばい",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "住友鉱山(5713)の副産物利益に影響。金$100/ozで±¥80億",
@@ -24,8 +24,8 @@
     {
       "commodity": "wti",
       "name": "WTI Crude",
-      "current": 91.26,
-      "change_pct": -1.73,
+      "current": 91.11,
+      "change_pct": -1.9,
       "price_alert": "📉 下落",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "INPEX(1605)に影響。原油$1変動で±¥50億",
@@ -34,8 +34,8 @@
     {
       "commodity": "brent",
       "name": "Brent Crude",
-      "current": 102.7,
-      "change_pct": 0.38,
+      "current": 102.25,
+      "change_pct": -0.06,
       "price_alert": "→ 横ばい",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "INPEX(1605)に影響。原油$1変動で±¥50億",
@@ -45,12 +45,12 @@
       "commodity": "usdjpy",
       "name": "USD/JPY",
       "current": 157.83,
-      "change_pct": 0.17,
+      "change_pct": -0.06,
       "price_alert": "→ 横ばい",
       "trend": "🔽 下降トレンド（MA20<MA60）",
       "impact": "INPEX/日本製鉄/住友鉱山に影響。1円変動で各社±¥15-30億",
       "severity": "low"
     }
   ],
-  "summary": "銅は1.50%上昇、上昇トレンド。金は0.72%下落、上昇トレンド。WTI原油は1.73%下落、上昇トレンド。ブレント原油は0.38%上昇、上昇トレンド。ドル円は0.17%上昇、下降トレンド。"
+  "summary": "銅は0.15%上昇、上昇トレンド。金は0.95%下落、上昇トレンド。WTI原油は1.90%下落、上昇トレンド。ブレント原油は0.06%下落、上昇トレンド。ドル円は0.06%下落、下降トレンド。"
 }
