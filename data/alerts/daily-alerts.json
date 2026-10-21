@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-20T09:29:43+09:00",
+  "updated": "2026-10-21T09:00:13+09:00",
   "alerts": [
     {
       "commodity": "copper",
       "name": "LME Copper",
-      "current": 6.566,
-      "change_pct": 0.54,
-      "price_alert": "→ 横ばい",
+      "current": 6.61,
+      "change_pct": 1.1,
+      "price_alert": "📈 上昇",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "住友鉱山(5713)に影響。LME銅$100変動で±¥25億",
-      "severity": "low"
+      "severity": "medium"
     },
     {
       "commodity": "gold",
       "name": "Gold",
-      "current": 4152.2,
-      "change_pct": -0.69,
+      "current": 4133.6,
+      "change_pct": -0.64,
       "price_alert": "→ 横ばい",
       "trend": "🔽 下降トレンド（MA20<MA60）",
       "impact": "住友鉱山(5713)の副産物利益に影響。金$100/ozで±¥80億",
@@ -24,18 +24,18 @@
     {
       "commodity": "wti",
       "name": "WTI Crude",
-      "current": 98.42,
-      "change_pct": -2.95,
-      "price_alert": "📉 下落",
+      "current": 98.39,
+      "change_pct": -5.08,
+      "price_alert": "⚠️ 急落",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "INPEX(1605)に影響。原油$1変動で±¥50億",
-      "severity": "medium"
+      "severity": "high"
     },
     {
       "commodity": "brent",
       "name": "Brent Crude",
-      "current": 109.37,
-      "change_pct": -0.45,
+      "current": 109.32,
+      "change_pct": -0.21,
       "price_alert": "→ 横ばい",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "INPEX(1605)に影響。原油$1変動で±¥50億",
@@ -44,13 +44,13 @@
     {
       "commodity": "usdjpy",
       "name": "USD/JPY",
-      "current": 158.52,
-      "change_pct": 0.45,
+      "current": 158.29,
+      "change_pct": -0.15,
       "price_alert": "→ 横ばい",
       "trend": "🔼 上昇トレンド（MA20>MA60）",
       "impact": "INPEX/日本製鉄/住友鉱山に影響。1円変動で各社±¥15-30億",
       "severity": "low"
     }
   ],
-  "summary": "銅は0.54%上昇、上昇トレンド。金は0.69%下落、下降トレンド。WTI原油は2.95%下落、上昇トレンド。ブレント原油は0.45%下落、上昇トレンド。ドル円は0.45%上昇、上昇トレンド。"
+  "summary": "銅は1.10%上昇、上昇トレンド。金は0.64%下落、下降トレンド。WTI原油は5.08%下落、上昇トレンド。ブレント原油は0.21%下落、上昇トレンド。ドル円は0.15%下落、上昇トレンド。"
 }
