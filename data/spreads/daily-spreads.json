@@ -1,17 +1,13 @@
 {
-  "updated": "2026-10-24T08:54:26+09:00",
+  "updated": "2026-10-25T08:30:58+09:00",
   "spreads": {
     "brent_wti": {
       "name": "Brent-WTI Spread",
       "unit": "$/bbl",
-      "current": 8.22,
+      "current": 13.45,
       "prev": 13.7,
-      "change": -5.48,
+      "change": -0.25,
       "history": [
-        {
-          "date": "2024-10-23",
-          "value": 4.19
-        },
         {
           "date": "2024-10-24",
           "value": 4.19
@@ -2022,14 +2018,14 @@
         },
         {
           "date": "2026-10-23",
-          "value": 8.22
+          "value": 13.45
         }
       ]
     },
     "gold_copper_ratio": {
       "name": "Gold/Copper Ratio",
-      "current": 0.2799,
-      "ma20": 0.2875,
+      "current": 0.2807,
+      "ma20": 0.2876,
       "interpretation": "リスクオン傾向"
     }
   },
